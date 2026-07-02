@@ -43,7 +43,7 @@ azimut-v1.0.0.apk
 ## Confidentialité
 
 AZIMUT ne collecte aucune donnée personnelle.
-→ [Politique de confidentialité](https://VOTRE_USERNAME.github.io/azimut/politique-de-confidentialite.html)
+→ [Politique de confidentialité]([https://VOTRE_USERNAME.github.io/azimut/politique-de-confidentialite.html](https://github.com/Azimut-App/Azimut/blob/main/politique-de-confidentialite.html))
 
 Contact : azimut.app.contact@gmail.com
 
