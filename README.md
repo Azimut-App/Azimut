@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⬆ AZIMUT</h1>
+  <h1>AZIMUT</h1>
   <p><strong>GPS ⇄ MGRS Converter — Application Android</strong></p>
 
   ![Version](https://img.shields.io/badge/version-1.0.0-8B9A52?style=flat-square)
@@ -12,8 +12,6 @@
 ## Présentation
 
 **AZIMUT** est une application Android de conversion bidirectionnelle de coordonnées géographiques entre les formats **GPS (WGS84)** et **MGRS (Military Grid Reference System)**. Conçue pour un usage terrain militaire, outdoor et topographique, elle fonctionne **entièrement hors ligne**.
-
-🌐 **Site web** : [VOTRE_USERNAME.github.io/azimut](https://VOTRE_USERNAME.github.io/azimut)
 
 ---
 
